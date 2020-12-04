@@ -1,0 +1,15 @@
+melody1 KEYWORD1
+melody2 KEYWORD1
+noteDurations1 KEYWORD1
+noteDurations2 KEYWORD1
+Note KEYWORD1
+duration KEYWORD1
+pace KEYWORD1
+
+# functions = KEYWORD2
+
+play KEYWORD2
+song KEYWORD2
+
+# constants (LITERAL1)
+NO_SOUND LITERAL1

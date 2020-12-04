@@ -1,0 +1,16 @@
+PCF8574	KEYWORD1
+begin	KEYWORD2
+read8	KEYWORD2
+write8	KEYWORD2
+read	KEYWORD2
+write	KEYWORD2
+toggle	KEYWORD2
+toggleMask	KEYWORD2
+shiftRight	KEYWORD2
+shiftLeft	KEYWORD2
+lastError	KEYWORD2
+rotateRight	KEYWORD2
+rotateLeft	KEYWORD2
+readButton8	KEYWORD2
+readButton	KEYWORD2
+setButtonMask	KEYWORD2

@@ -1,0 +1,4 @@
+MyDelay	KEYWORD1
+check	KEYWORD2
+setDelay	KEYWORD2
+getDelay	KEYWORD2
